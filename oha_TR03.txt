@@ -1,4 +1,343 @@
 #EXTM3U 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Haber
+https://oha.to/play/1578612716/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport INT
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/1684061712/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/1808542160/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2239707133/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2603371800/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2873939440/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/3334958679/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/4274013276/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/3127623424/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/1614862949/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/2092087459/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/2807188734/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/4092279694/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/4269351111/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/2586993998/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/2954410045/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/3273197943/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/3641264741/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/3834654669/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/1899615591/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/2163294724/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/3553379196/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 5 TR
+https://oha.to/play/1280965847/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 5 TR
+https://oha.to/play/3250376724/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/1367712343/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/2225366238/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/3633249487/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 2
+https://oha.to/play/3173603355/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 1
+https://oha.to/play/3085299930/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 2
+https://oha.to/play/4031089162/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 2
+https://oha.to/play/2318137784/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 3
+https://oha.to/play/3075198984/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 3
+https://oha.to/play/424121431/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 1
+https://oha.to/play/2822240809/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/1829547791/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/1714417218/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/2824642873/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 3
+https://oha.to/play/1349289663/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 4
+https://oha.to/play/3796654767/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series Comedy
+https://oha.to/play/3062801999/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Action
+https://oha.to/play/1621541095/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Action
+https://oha.to/play/4285228968/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Premiere
+https://oha.to/play/1532930946/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Premiere 2
+https://oha.to/play/1031895906/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Star
+https://oha.to/play/2354756128/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Star
+https://oha.to/play/4130654610/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Türk
+https://oha.to/play/2252952454/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Türk
+https://oha.to/play/3967568090/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Family
+https://oha.to/play/2603409444/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Family
+https://oha.to/play/2799699841/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Home & Entertainment
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN IZ
+https://oha.to/play/223700819/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Gurme
+https://oha.to/play/515998390/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Eurospot 1
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Eurospot 2
+https://oha.to/play/959271439/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nat Geo TR
+https://oha.to/play/127527075/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nat Geo Wild TR
+https://oha.to/play/688078726/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/1602093659/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/1701632307/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/883795423/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/2240202202/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/3246943788/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/3725072262/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AXN
+https://oha.to/play/3347450604/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nickelodeon TR
+https://oha.to/play/69561833/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NickToons TR
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nick Jr TR
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Disney Junior 
+https://oha.to/play/1338535223/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,COCUK TV 1
+https://oha.to/play/2751990660/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,COCUK TV 2
+https://oha.to/play/3752455997/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,COCUK TV 3
+https://oha.to/play/3861712121/index.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Da Vinci
+https://oha.to/play/3366165283/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Baby TV
+https://oha.to/play/2318245250/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Baby TV NILOYA
+https://oha.to/play/958058940/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cartoon Network
+https://oha.to/play/861224173/index.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BBC Earth
+https://oha.to/play/450994880/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BBC Earth
+https://oha.to/play/968430568/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,History TR
+https://oha.to/play/1258442222/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/1607288164/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/2445146308/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/3593994454/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/2709926861/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/3326219093/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/3859008479/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DMAX
+https://oha.to/play/1206163733/index.m3u8
+
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Premium
+https://oha.to/play/1577754508/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Premium
+https://oha.to/play/4207699382/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Max
+https://oha.to/play/1333588042/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Max
+https://oha.to/play/3981022826/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Classic
+https://oha.to/play/2104856524/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/1625078434/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/2619432596/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/4031764702/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/4264678241/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cocuk smart
+https://oha.to/play/3634173845/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Love Natura
+https://oha.to/play/1427404307/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NBA TV
+https://oha.to/play/3471183343/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NBA TV
+https://oha.to/play/2359946685/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Smart spor
+https://oha.to/play/4288708303/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Smart spor
+https://oha.to/play/4025358434/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Smart spor 2
+https://oha.to/play/1808436490/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor
+https://oha.to/play/1628503511/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 1
+https://oha.to/play/4119397610/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 1
+https://oha.to/play/3943866950/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 2
+https://oha.to/play/2003557447/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 2
+https://oha.to/play/1704830373/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 3
+https://oha.to/play/1242297847/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 3
+https://oha.to/play/1040575362/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 3
+https://oha.to/play/3051587346/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 4
+https://oha.to/play/2034861964/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 4
+https://oha.to/play/4163578343/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sports TV
+https://oha.to/play/1257759003/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/1288007607/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/2666527925/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/4108728197/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/464154069/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/896754509/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport 2
+https://oha.to/play/3153880238/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport 2
+https://oha.to/play/4226047772/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport 2
+https://oha.to/play/3446344512/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1	
+https://oha.to/play/1248681511/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1591623760/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1673423328/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2520698656/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2875123344/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/3516839408/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/3700348801/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2963099947/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1507245276/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1616609305/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2010580875/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2403844922/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2498689480/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2900836470/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2988960394/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/3370629610/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/4119302234/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/427702912/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/605950768/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/324283219/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/577259413/index.m3u8
+
+
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema TV
+https://oha.to/play/2963562101/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema TV
+https://oha.to/play/449591453/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Aile
+https://oha.to/play/3486283754/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Aile 2
+https://oha.to/play/2288782650/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Aksiyon
+https://oha.to/play/2788324814/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Komedi 
+https://oha.to/play/1033468021/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema 1001
+https://oha.to/play/2679131706/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema 1002
+https://oha.to/play/3624940778/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Yerli
+https://oha.to/play/676291199/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Yerli 2
+
+
+
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIBERBOX TURK
+https://oha.to/play/22772494/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MOOVIE HD MARVEL
+https://oha.to/play/279021853/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YESILCAM
+https://oha.to/play/3001859073/index.m3u8
+
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Inultra
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cartoonito TR
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Epic Drama 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moonbug Kids
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GameScreen
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DocuScreen
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FigthScreen
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Edge Sport
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FX
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tarih 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BBC First TR
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivi Life
+
+
+
+
+##############################################################################
+
+
+
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,BABY NILOYA		
 https://oha.to/play/958058940/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,BABY TV HD 		
@@ -592,6 +931,7 @@ https://oha.to/play/1338535223/index.m3u8
 https://oha.to/play/1902747648/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,DIYANET TV		
 https://oha.to/play/2680318783/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,DIZI SMART		
 https://oha.to/play/1333588042/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,DIZI SMART		
@@ -644,7 +984,7 @@ https://oha.to/play/1742359512/index.m3u8
 https://oha.to/play/1660354294/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EDIRNE ETV		
 https://oha.to/play/2407094569/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EDYA HABER		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,MEDYA HABER		
 https://oha.to/play/877817916/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EFKAR FM C		
 https://oha.to/play/1433631750/index.m3u8
@@ -664,31 +1004,31 @@ https://oha.to/play/223700819/index.m3u8
 https://oha.to/play/117007047/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,BEIN MOVIES		
 https://oha.to/play/401080093/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SERIES		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SERIES		
 https://oha.to/play/715970015/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/248348677/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/338443664/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/359829742/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/363023099/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/526795746/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/611959902/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/672315742/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/736874981/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/822770501/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/942799181/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPORTS		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPORTS		
 https://oha.to/play/980424600/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EIN SPOTS1		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bEIN SPOTS1		
 https://oha.to/play/298056515/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EKIN TURK 		
 https://oha.to/play/2706091689/index.m3u8
@@ -700,11 +1040,11 @@ https://oha.to/play/2186637237/index.m3u8
 https://oha.to/play/3471950151/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ELAZIG KAN		
 https://oha.to/play/3793377680/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EM TV |D",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,EM TV |D		
 https://oha.to/play/959515400/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EM TV |E",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,EM TV 		
 https://oha.to/play/3086864341/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ENGUTURK |		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,bENGUTURK |		
 https://oha.to/play/200289298/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ENI KOCAEL		
 https://oha.to/play/536440611/index.m3u8
@@ -748,21 +1088,21 @@ https://oha.to/play/3795587463/index.m3u8
 https://oha.to/play/1710958307/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EPEE TV |D		
 https://oha.to/play/629180735/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ER TV |D",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,ER TV |D		
 https://oha.to/play/4035925360/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ERAT TV |E		
 https://oha.to/play/114482510/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ERCIS TV |		
 https://oha.to/play/2364974174/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ES TV |E",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,ES TV |E		
 https://oha.to/play/3737971916/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ESILCAM |H		
 https://oha.to/play/765067553/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ESK EH R K		
 https://oha.to/play/3692672479/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ET SERVER 		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,nET SERVER 		
 https://oha.to/play/509459230/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ET SERVER 		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,nET SERVER 		
 https://oha.to/play/591237806/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EURO D |D"		
 https://oha.to/play/3390680448/index.m3u8
@@ -780,8 +1120,9 @@ https://oha.to/play/3295935378/index.m3u8
 https://oha.to/play/1258093681/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EUROSTAR |		
 https://oha.to/play/2684871505/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,EVE 2 |H",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,EVE 2 |H		
 https://oha.to/play/660065353/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EXXEN SPOR		
 https://oha.to/play/1248681511/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,EXXEN SPOR		
@@ -1042,9 +1383,9 @@ https://oha.to/play/284578909/index.m3u8
 https://oha.to/play/128575122/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,ILDIZ TV E		
 https://oha.to/play/828664541/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ILMBOX KAD		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,fILMBOX KAD		
 https://oha.to/play/460018773/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,ILMBOX KEM		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,fILMBOX KEM		
 https://oha.to/play/782229526/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,IN IZ TV |		
 https://oha.to/play/24268679/index.m3u8
@@ -1062,9 +1403,9 @@ https://oha.to/play/968031052/index.m3u8
 https://oha.to/play/152846066/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,INEFLIX SC		
 https://oha.to/play/657436403/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,INEMA 2 |H		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,sINEMA 2 |H		
 https://oha.to/play/449591453/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,INEMA YERL		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,sINEMA YERL		
 https://oha.to/play/676291199/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,INEVIZYON 		
 https://oha.to/play/949523132/index.m3u8
@@ -1420,10 +1761,12 @@ https://oha.to/play/4264678241/index.m3u8
 https://oha.to/play/4026650861/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,MOVIES YES		
 https://oha.to/play/4239642487/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,MOVIESMART		
 https://oha.to/play/1625078434/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,MOVIESMART		
 https://oha.to/play/2104856524/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,MTV LIVE |		
 https://oha.to/play/2823591118/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,MUSLUM GUR		
@@ -1734,6 +2077,7 @@ https://oha.to/play/1645066123/index.m3u8
 https://oha.to/play/3587765076/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SHOWMAX |D		
 https://oha.to/play/1012292053/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SINEMA 100		
 https://oha.to/play/2679131706/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SINEMA 100		
@@ -1800,12 +2144,14 @@ https://oha.to/play/1458544671/index.m3u8
 https://oha.to/play/1274473619/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SLOW T RK 		
 https://oha.to/play/3513402986/index.m3u8
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,SOZCU SZC 		
+https://oha.to/play/1941302440/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SMART COCU		
 https://oha.to/play/3634173845/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SMART SPOR		
 https://oha.to/play/4025358434/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,SOZCU SZC 		
-https://oha.to/play/1941302440/index.m3u8
+
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SPOR SMART		
 https://oha.to/play/1747926848/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,SPOR SMART		
@@ -1982,7 +2328,7 @@ https://oha.to/play/2746212893/index.m3u8
 https://oha.to/play/3594226000/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,TRT 1 SD |		
 https://oha.to/play/2439736489/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,TRT 2 |E",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,TRT 2 	
 https://oha.to/play/1308348418/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,TRT 3 SPOR		
 https://oha.to/play/1372778025/index.m3u8
@@ -2096,15 +2442,15 @@ https://oha.to/play/3239437972/index.m3u8
 https://oha.to/play/3785581083/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 8 SD |D		
 https://oha.to/play/2809460057/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 8.5 |E"		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 8.5 	
 https://oha.to/play/2641789899/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 8.5 FHD		
 https://oha.to/play/3649557693/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 8.5 HD 		
 https://oha.to/play/2468715829/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 85 |H",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,TV 85 		
 https://oha.to/play/4219583259/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,TV DEN |E"		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,TV DEN 		
 https://oha.to/play/1519327187/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,TV EM |H",		
 https://oha.to/play/2241793546/index.m3u8
@@ -2206,7 +2552,7 @@ https://oha.to/play/1378495934/index.m3u8
 https://oha.to/play/2622100656/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,VIZYON 58 		
 https://oha.to/play/2665559098/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,VNET |H","		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,TVNET |H","		
 https://oha.to/play/870763585/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,VO TV |D",		
 https://oha.to/play/724297808/index.m3u8
@@ -2218,19 +2564,19 @@ https://oha.to/play/4018217798/index.m3u8
 https://oha.to/play/3986390547/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,WOMAN TV |		
 https://oha.to/play/1259923616/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,XXEN SPORT		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,eXXEN SPORT		
 https://oha.to/play/427702912/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,XXEN SPORT		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,eXXEN SPORT		
 https://oha.to/play/605950768/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,XXEN TV SP		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,eXXEN TV SP		
 https://oha.to/play/324283219/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,XXEN TV SP		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,eXXEN TV SP		
 https://oha.to/play/577259413/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,Y TV |E","		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,Y TV |E	
 https://oha.to/play/60837322/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,Y TV RIZE 		
 https://oha.to/play/57560213/index.m3u8
-#EXTINF:-1 group-title="TR | OHA TO CH"    ,YABAN |E",		
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,YABAN 		
 https://oha.to/play/3036969304/index.m3u8
 #EXTINF:-1 group-title="TR | OHA TO CH"    ,YABAN TV |		
 https://oha.to/play/1386700499/index.m3u8
@@ -2719,7 +3065,7 @@ https://oha.to/play/4180016204/index.m3u8
 https://oha.to/play/54887566 /index.m3u8
 #EXTINF:-1 group-title="DE | OHA TO CH"    ,E 24 TV |D		
 https://oha.to/play/54887566 /index.m3u8
-#EXTINF:-1 group-title="DE | OHA TO CH"    ,E!   		
+#EXTINF:-1 group-title="DE | OHA TO CH"    ,AXN		
 https://oha.to/play/3347450604/index.m3u8
 #EXTINF:-1 group-title="DE | OHA TO CH"    ,E! ENTERTA		
 https://oha.to/play/1977968675/index.m3u8
